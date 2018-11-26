@@ -1,4 +1,4 @@
-##Location Object
+## Location Object
 
 [Location 객체]
   location 객체는 현재 브라우저에 표시된 HTML 문서의 주소를 얻거나, 브라우저에 새 문서를 불러올 때 사용할 수 있다.

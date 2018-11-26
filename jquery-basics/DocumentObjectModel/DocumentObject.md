@@ -1,4 +1,4 @@
-##Document Object
+## Document Object
 
 [Document 객체]
   Document 객체는 웹 페이지 그 자체를 의미한다.

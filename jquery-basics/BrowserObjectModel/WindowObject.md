@@ -1,4 +1,4 @@
-##Window Object
+## Window Object
 
 [Window 객체]
   window 객체는 웹 브라우저의 창(window)을 나타내는 객체로, 대부분의 웹 브라우저에서 지원하고 있다.

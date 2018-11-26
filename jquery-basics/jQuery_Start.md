@@ -1,4 +1,5 @@
-##jQuery
+## jQuery
+
 [제이쿼리(jQuery)]
   제이쿼리는 자바스크립트 언어를 간편하게 사용할 수 있도록 단순화시킨 오픈 소스 기반의 자바스크립트 라이브러리이다.
 제이쿼리를 이용하면 문서 객체 모델(DOM)과 이벤트에 관한 처리를 손쉽게 구현할 수 있다.
@@ -43,3 +44,69 @@ jQuery Foundation : http://blog.jquery.com =>
 
  **제이쿼리 버전 2와 버전 3는 모두 익스플로러 9 이상에서만 동작한다.
 이 때문에 아직도 많은 웹 사이트에서는 제이쿼리 버전 1을 사용하고 있다.
+
+[제이쿼리 적용]
+  제이쿼리는 자바스크립트 라이브러리이므로, 제이쿼리 파일은 자바스크립트 파일(.js 파일) 형태로 존재한다.
+따라서 웹 페이지에서 제이쿼리를 사용하기 위해서는 제이쿼리 파일을 먼저 웹 페이지에 로드(load)해야 한다.
+
+웹 페이지에 제이쿼리 파일을 로드하는 방법은 다음과 같다.
+
+1. 제이쿼리 파일을 다운받아 로드하는 방법
+2. CDN(Content Delivery Network)을 이용하여 로드하는 방법
+
+[제이쿼리 파일을 다운받아 로드하는 방법]
+최신 버전의 제이쿼리 파일은 다음 공식 사이트에서 다운받을 수 있습니다.
+
+ - jQuery.com : http://jquery.com/download
+
+이렇게 다운받은 제이쿼리 파일을 서버에 저장하고, 다음 <script>태그를 웹 페이지의 <head>태그 내에 삽입하면 된다.
+
+### 문법
+<head>
+    <script src="/파일경로/제이쿼리파일명.js"></script>
+</head>
+
+### 예제
+<head>
+    <script src="/media/jquery-1.12.4.min.js"></script>
+</head>
+
+
+[CDN을 이용하여 로드하는 방법]
+  CDN(Content Delivery Network)이란 웹 사이트의 접속자가 서버에서 콘텐츠를 다운받아야 할 때, 자동으로 가장 가까운 서버에서 다운받도록 하는 기술이다.
+이 기술을 이용하면 특정 서버에 트래픽이 집중되지 않고, 콘텐츠 전송 시간이 매우 빨라지는 장점이 있다.
+이러한 CDN을 이용하면 제이쿼리 파일을 서버에 따로 저장하지 않아도 제이쿼리를 사용할 수 있다.
+
+현재 이용할 수 있는 제이쿼리 버전 1의 CDN은 다음과 같으며, 어떤 CDN을 이용하더라도 같은 동작을 한다.
+
+** CDN(Content Delivery Network)
+1. jQuery.com CDN : <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+2. 구글 CDN       : <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+3. MS CDN         : <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js"></script>
+4. CDNJS CDN      : <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+5. jsDelivr CDN   : <script src="https://cdn.jsdelivr.net/jquery/1.12.4/jquery.min.js"></script>
+
+ 
+### 예제
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
