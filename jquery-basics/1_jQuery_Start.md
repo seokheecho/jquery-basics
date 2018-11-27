@@ -62,14 +62,14 @@ jQuery Foundation : http://blog.jquery.com =>
 이렇게 다운받은 제이쿼리 파일을 서버에 저장하고, 다음 <script>태그를 웹 페이지의 <head>태그 내에 삽입하면 된다.
 
 ### 문법
-~~~
+~~~HTML
 <head>
     <script src="/파일경로/제이쿼리파일명.js"></script>
 </head>
 ~~~
 
 ### 예제
-~~~
+~~~HTML
 <head>
     <script src="/media/jquery-1.12.4.min.js"></script>
 </head>
@@ -90,8 +90,13 @@ jQuery Foundation : http://blog.jquery.com =>
 5. jsDelivr CDN   : <script src="https://cdn.jsdelivr.net/jquery/1.12.4/jquery.min.js"></script>
 
 ### 예제
-~~~
+~~~HTML
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 </head>
 ~~~
+
+
+
+
+##### 참고 : http://tcpschool.com
