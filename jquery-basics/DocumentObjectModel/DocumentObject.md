@@ -93,6 +93,3 @@ HTML 요소를 다루기 위해서는 우선 해당 요소를 선택해야만 �
  - document.readyState : HTML 문서의 로딩 상태(loading status)를 반환함. - 3
  - document.scripts : <script>요소를 모두 반환함. - 3
  - document.strictErrorChecking : 오류의 강제 검사 여부를 반환함. - 3
-
-
-##### 참고 : http://tcpschool.com

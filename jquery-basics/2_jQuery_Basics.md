@@ -128,8 +128,3 @@ $(function() {
 </body>
 </html>
 ~~~
-
-
-
-
-##### 참고 : http://tcpschool.com

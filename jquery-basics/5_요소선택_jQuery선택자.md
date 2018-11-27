@@ -92,9 +92,3 @@ $(function() {
 |:focus	| 현재 포커스가 가지고 있는 요소를 선택함.|
 |:disabled	| 비활성화되어있는 요소를 모두 선택함.|
 |:enabled	| 활성화되어있는 요소를 모두 선택함.|
-
-
-
-
-
-##### 참고 : http://tcpschool.com

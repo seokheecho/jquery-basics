@@ -31,6 +31,3 @@ XML DOM은 XML 문서에 접근하여, 그 문서를 다루는 표준화된 방�
 모든 XML 요소는 XML DOM를 통해 접근할 수 있다.
 XML DOM에 대한 더 자세한 사항은 XML DOM 수업에서 확인할 수 있다.
 (참고 : http://tcpschool.com/xml/xml_dom_concept)
-
-
-##### 참고 : http://tcpschool.com
