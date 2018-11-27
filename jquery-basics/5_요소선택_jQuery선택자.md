@@ -81,6 +81,7 @@ $(function() {
 특정 <input>요소를 선택할 수 있는 선택자는 다음과 같다.
 
 |선택자|설명|
+|:-----|:-----|
 |:button	| type 속성값이 "button"인 요소를 모두 선택함.|
 |:checkbox	| type 속성값이 "checkbox"인 요소를 모두 선택함.|
 |:file	| type 속성값이 "file"인 요소를 모두 선택함.|
