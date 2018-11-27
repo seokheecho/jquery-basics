@@ -26,7 +26,7 @@ $(function() {
 ## [선택한 요소의 필터링]
   제이쿼리에서는 선택한 요소 중에서 더욱 세분화된 선택을 하기 위한 필터링을 진행할 수 있다.
 
-다음 예제는 문서 내의 모든 <li>요소 중에서 <span>요소를 가지고 있는 요소만을 선택하는 예제이다.
+다음 예제는 문서 내의 모든 `<li>`요소 중에서 `<span>`요소를 가지고 있는 요소만을 선택하는 예제이다.
 
 ### 예제
 ~~~javascript
@@ -91,7 +91,7 @@ $(function() {
 |:reset	| type 속성값이 "reset"인 요소를 모두 선택함.|
 |:submit	| type 속성값이 "submit"인 요소를 모두 선택함.|
 |:text	| type 속성값이 "text"인 요소를 모두 선택함.|
-|:input	| <input>, <textarea>, <select>, <button>요소를 모두 선택함.|
+|:input	| `<input>`, `<textarea>`, `<select>`, `<button>`요소를 모두 선택함.|
 |:checked	| type 속성값이 "checkbox" 또는 "radio"인 요소 중에서 체크되어 있는 요소를 모두 선택함.|
 |:selected	| <option>요소 중에서 선택된 요소를 모두 선택함.|
 |:focus	| 현재 포커스가 가지고 있는 요소를 선택함.|
