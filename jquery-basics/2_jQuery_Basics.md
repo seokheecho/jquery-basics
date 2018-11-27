@@ -28,7 +28,8 @@ $() 함수의 인수로는 HTML 태그 이름뿐만 아니라, CSS 선택자를 
  - 아직 로드되지 않은 이미지의 크기를 얻으려고 할 경우
 
 다음 예제는 아직 생성되지 않은 HTML 요소에 속성을 추가하는 예제이다.
-```
+
+<pre><code>
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -58,7 +59,7 @@ $() 함수의 인수로는 HTML 태그 이름뿐만 아니라, CSS 선택자를 
 	<p id="text"></p>
 </body>
 </html>
-```
+</code></pre>
 
   위의 예제에서 addAttribute() 함수는 아이디가 "para"인 HTML 요소에 새로운 속성을 추가하는 함수이다.
 또한, createElement() 함수는 아이디가 "para"인 HTML 요소를 생성하여 추가해 주는 함수이다.
