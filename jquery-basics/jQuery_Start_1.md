@@ -83,11 +83,15 @@ jQuery Foundation : http://blog.jquery.com =>
 현재 이용할 수 있는 제이쿼리 버전 1의 CDN은 다음과 같으며, 어떤 CDN을 이용하더라도 같은 동작을 한다.
 
 * CDN(Content Delivery Network)
-  1. jQuery.com CDN : <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-  2. 구글 CDN       : <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  3. MS CDN         : <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js"></script>
-  4. CDNJS CDN      : <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  5. jsDelivr CDN   : <script src="https://cdn.jsdelivr.net/jquery/1.12.4/jquery.min.js"></script>
+
+ 1. jQuery.com CDN : <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+ 2. 구글 CDN       : <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+ 3. MS CDN         : <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js"></script>
+ 4. CDNJS CDN      : <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+ 5. jsDelivr CDN   : <script src="https://cdn.jsdelivr.net/jquery/1.12.4/jquery.min.js"></script>
+ 6.
+  7.
+   8.
 
 
 ### 예제
