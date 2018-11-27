@@ -59,7 +59,7 @@ jQuery Foundation : http://blog.jquery.com =>
 
  - jQuery.com : http://jquery.com/download
 
-이렇게 다운받은 제이쿼리 파일을 서버에 저장하고, 다음 '<script>'태그를 웹 페이지의 '<head>'태그 내에 삽입하면 된다.
+이렇게 다운받은 제이쿼리 파일을 서버에 저장하고, 다음 `<script>`태그를 웹 페이지의 `<head>`태그 내에 삽입하면 된다.
 
 ### 문법
 ~~~HTML
