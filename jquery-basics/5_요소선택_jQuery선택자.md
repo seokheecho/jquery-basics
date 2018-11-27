@@ -66,15 +66,10 @@ $(function() {
 ### 예제
 ~~~javascript
 $(function() {
-
     $("button").on("click", function() {
-
         // 체크되어 있는 요소를 모두 선택함.
-
         $(":checked").next().text("체크되어 있는 요소는 이 요소입니다.");
-
     });
-
 });
 ~~~
 
