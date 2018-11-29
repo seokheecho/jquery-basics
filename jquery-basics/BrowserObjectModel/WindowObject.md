@@ -65,7 +65,7 @@ window 객체의 `open()` 메소드를 이용하면, 새로운 브라우저 창�
 
 
 이 옵션에서 사용할 수 있는 프로퍼티는 다음 그림과 같다.
-** 참고 : http://tcpschool.com/javascript/js_bom_window
+![JavaScript_Browser](http://tcpschool.com/lectures/img_js_browser_window.png)
 
 
 다음 예제는 메뉴바, 주소창, 크기조절 손잡이, 스크롤 바, 상태 바만을 가지는 새로운 브라우저 창을 여는 예제이다.
