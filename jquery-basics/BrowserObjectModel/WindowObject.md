@@ -65,6 +65,7 @@ window 객체의 `open()` 메소드를 이용하면, 새로운 브라우저 창�
 
 
 이 옵션에서 사용할 수 있는 프로퍼티는 다음 그림과 같다.
+
 ![JavaScript_Browser](http://tcpschool.com/lectures/img_js_browser_window.png)
 
 
