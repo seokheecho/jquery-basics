@@ -1,4 +1,2 @@
 WSL
 git-test-ubuntu05
-git-test-ubuntu04
-git-test-ubuntu03
