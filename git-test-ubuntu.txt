@@ -1,5 +1,5 @@
 WSL
-Windows - knowhosts check!
+Windows - knowhosts check! - recheck
 WSL Ubuntu - success / Windows - success 
 git-test-ubuntu05
 git-test-ubuntu04
