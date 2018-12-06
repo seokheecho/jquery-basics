@@ -1,8 +1,4 @@
 WSL
 Windows - knowhosts check! - recheck
 WSL Ubuntu - success / Windows - success 
-git-test-ubuntu05
-git-test-ubuntu04
-git-test-ubuntu03
-git-test-ubuntu02
-git-test-ubuntu01
+git-test00
