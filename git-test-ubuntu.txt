@@ -1,5 +1,6 @@
 WSL
-WSL Ubuntu - success / Windows - success ?
+Windows - knowhosts check!
+WSL Ubuntu - success / Windows - success 
 git-test-ubuntu05
 git-test-ubuntu04
 git-test-ubuntu03
